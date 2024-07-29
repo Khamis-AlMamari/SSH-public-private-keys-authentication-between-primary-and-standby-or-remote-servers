@@ -28,7 +28,12 @@ Try ssh between the remote server ands check SSH connectivity
 ssh remoteServerIP 
 ```
 
+## Notes
+In my example-code I have used oracle user and dba group.
+
+You can modify them according to your server requirements 
+
+
 ## Authors
 
 - [@Khamis Al Mamari](https://www.linkedin.com/in/khamis-almamari-7092a3215/)
-
