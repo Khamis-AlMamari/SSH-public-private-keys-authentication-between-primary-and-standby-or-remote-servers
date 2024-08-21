@@ -1,4 +1,4 @@
-# SSH-public-private-keys-authentication-between-primary-and-standby-or-remote-servers
+# SSH-authentication-for-clusters-database-and-standby-servers
 This Script can do the automate setup of ssh-public/private-key authentication automatically for password-less between the primary and standby or remote servers for root and any users 
 
 ## Why Should You Set Up SSH Keys?
@@ -10,8 +10,8 @@ SSH keys are very hard to decipher with these attacks.
 ## Usage
 
 ```bash
-git clone https://github.com/Khamis-AlMamari/SSH-public-private-keys-authentication-between-primary-and-standby-or-remote-servers
-cd SSH-public-private-keys-authentication-between-primary-and-standby-or-remote-servers
+git clone https://github.com/Khamis-AlMamari/SSH-authentication-for-clusters-database-and-standby-servers
+cd SSH-authentication-for-clusters-database-and-standby-servers
 chmod +x ssh_authentication.sh 
 ./ssh_authentication.sh 
 ```
